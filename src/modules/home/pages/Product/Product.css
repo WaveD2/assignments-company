@@ -1,0 +1,15 @@
+.productFlex {
+    display: flex;
+    align-items: center;
+}
+button,
+select {
+    min-width: 130px;
+    box-shadow: 1px 0px 2px #333;
+}
+.table > tbody {
+    vertical-align: none;
+}
+section {
+    margin: 20px 0;
+}
